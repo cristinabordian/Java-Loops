@@ -25,7 +25,7 @@ public class BrainFfForApp {
 // 1. Pas_1. Se declara b=a++ -> b=1+1=2
 // 2. Pas_2 Se verifica conditia c < b +1 -> c < 2 + 1 -> c < 3 - true
 // 3. Pas_3. Se executa for loop boody  --a (2-1); --b (2-1); 
-// 4. Pas_4. Se vace update la val a = c+=2 -> a = 1+2 -> a=3
+// 4. Pas_4. Se face update la val a = c+=2 -> a = 1+2 -> a=3
 // 5. System out  -> 1; 1; 1
 // 6. Condition is evaluated again. 
 
